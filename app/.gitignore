@@ -18,6 +18,9 @@ output.json
 # IntelliJ
 *.iml
 .idea/
+.idea/libraries/
+.idea/modules.xml
+.idea/vcs.xml
 misc.xml
 deploymentTargetDropDown.xml
 render.experimental.xml
