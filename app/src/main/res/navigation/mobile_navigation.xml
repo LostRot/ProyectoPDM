@@ -18,8 +18,13 @@
         tools:layout="@layout/fragment_gallery" />
 
     <fragment
-        android:id="@+id/nav_slideshow"
-        android:name="com.example.proyectopdm.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_slideshow"
-        tools:layout="@layout/fragment_slideshow" />
+        android:id="@+id/nav_proyectos"
+        android:name="com.example.proyectopdm.ui.proyectos.proyectosFragment"
+        android:label="@string/menu_proyectos"
+        tools:layout="@layout/fragment_proyectos" />
+    <fragment
+        android:id="@+id/bitacoraFragment"
+        android:name="com.example.proyectopdm.BitacoraFragment"
+        android:label="fragment_bitacora"
+        tools:layout="@layout/fragment_bitacora" />
 </navigation>
