@@ -6,6 +6,20 @@
         <entry key="..\:/Users/mayno/Escritorio/ProyectoPDM/app/src/main/res/layout/activity_main.xml" value="0.15534420289855072" />
         <entry key="..\:/Users/mayno/Escritorio/ProyectoPDM/app/src/main/res/layout/activity_registrar_usuario.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/mayno/Escritorio/ProyectoPDM/app/src/main/res/layout/content_menu_opciones.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/mayno/Escritorio/Prueba/ProyectoPDM/app/src/main/res/drawable/ic_baseline_folder.xml" value="0.1945" />
+        <entry key="..\:/Users/mayno/Escritorio/Prueba/ProyectoPDM/app/src/main/res/drawable/ic_baseline_inicio.xml" value="0.1945" />
+        <entry key="..\:/Users/mayno/Escritorio/Prueba/ProyectoPDM/app/src/main/res/drawable/ic_baseline_user.xml" value="0.1945" />
+        <entry key="..\:/Users/mayno/Escritorio/Prueba/ProyectoPDM/app/src/main/res/drawable/ic_logo_inicio.xml" value="0.1945" />
+        <entry key="..\:/Users/mayno/Escritorio/Prueba/ProyectoPDM/app/src/main/res/drawable/ic_logo_miperfil.xml" value="0.1945" />
+        <entry key="..\:/Users/mayno/Escritorio/Prueba/ProyectoPDM/app/src/main/res/drawable/ic_logo_proyectos.xml" value="0.1945" />
+        <entry key="..\:/Users/mayno/Escritorio/Prueba/ProyectoPDM/app/src/main/res/drawable/ic_menu_inicio.xml" value="0.167" />
+        <entry key="..\:/Users/mayno/Escritorio/Prueba/ProyectoPDM/app/src/main/res/drawable/ic_menu_miperfil.xml" value="0.1945" />
+        <entry key="..\:/Users/mayno/Escritorio/Prueba/ProyectoPDM/app/src/main/res/drawable/ic_menu_proyectos.xml" value="0.1945" />
+        <entry key="..\:/Users/mayno/Escritorio/Prueba/ProyectoPDM/app/src/main/res/layout/fragment_inicio.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/mayno/Escritorio/Prueba/ProyectoPDM/app/src/main/res/layout/fragment_miperfil.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/mayno/Escritorio/Prueba/ProyectoPDM/app/src/main/res/layout/fragment_proyectos.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/mayno/Escritorio/Prueba/ProyectoPDM/app/src/main/res/layout/fragment_record_academico.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/mayno/Escritorio/Prueba/ProyectoPDM/app/src/main/res/menu/menu_opciones.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>

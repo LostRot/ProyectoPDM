@@ -3,23 +3,28 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/mobile_navigation"
-    app:startDestination="@+id/nav_home">
+    app:startDestination="@+id/nav_inicio">
 
     <fragment
-        android:id="@+id/nav_home"
-        android:name="com.example.proyectopdm.ui.home.HomeFragment"
-        android:label="@string/menu_home"
-        tools:layout="@layout/fragment_home" />
+        android:id="@+id/nav_inicio"
+        android:name="com.example.proyectopdm.ui.Inicio.InicioFragment"
+        android:label="@string/menu_inicio"
+        tools:layout="@layout/fragment_inicio" />
 
     <fragment
-        android:id="@+id/nav_gallery"
-        android:name="com.example.proyectopdm.ui.gallery.GalleryFragment"
-        android:label="@string/menu_gallery"
-        tools:layout="@layout/fragment_gallery" />
+        android:id="@+id/nav_miperfil"
+        android:name="com.example.proyectopdm.ui.miperfil.MiPerfilFragment"
+        android:label="@string/menu_miperfil"
+        tools:layout="@layout/fragment_miperfil" />
 
     <fragment
-        android:id="@+id/nav_slideshow"
-        android:name="com.example.proyectopdm.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_slideshow"
-        tools:layout="@layout/fragment_slideshow" />
+        android:id="@+id/nav_proyectos"
+        android:name="com.example.proyectopdm.ui.proyectos.ProyectosFragment"
+        android:label="@string/menu_proyectos"
+        tools:layout="@layout/fragment_proyectos" />
+    <fragment
+        android:id="@+id/recordAcademicoFragment"
+        android:name="com.example.proyectopdm.RecordAcademicoFragment"
+        android:label="@string/menu_recordacademico"
+        tools:layout="@layout/fragment_record_academico" />
 </navigation>
