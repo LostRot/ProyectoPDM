@@ -16,7 +16,7 @@
             android:name=".MenuOpcionesActivity"
             android:exported="false"
             android:label="@string/title_activity_menu_opciones"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+            android:theme="@style/Theme.ProyectoPDM.NoActionBar" />
         <activity
             android:name=".MainActivity"
             android:exported="true">

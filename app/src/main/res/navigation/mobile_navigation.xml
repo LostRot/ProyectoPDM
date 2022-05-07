@@ -27,4 +27,9 @@
         android:name="com.example.proyectopdm.BitacoraFragment"
         android:label="fragment_bitacora"
         tools:layout="@layout/fragment_bitacora" />
+    <fragment
+        android:id="@+id/nav_estudiantes"
+        android:name="com.example.proyectopdm.nav_estudiantes"
+        android:label="@string/fragmentestudiante"
+        tools:layout="@layout/fragment_nav_estudiantes" />
 </navigation>

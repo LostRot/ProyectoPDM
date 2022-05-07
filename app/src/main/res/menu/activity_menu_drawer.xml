@@ -16,5 +16,14 @@
             android:id="@+id/nav_proyectos"
             android:icon="@drawable/ic_proyectos"
             android:title="@string/menu_proyectos" />
+        <item
+            android:id="@+id/bitacoraFragment"
+            android:icon="@drawable/ic_proyectos"
+            android:title="@string/fragmentbitacora" />
+
+        <item
+            android:id="@+id/nav_estudiantes"
+            android:icon="@drawable/ic_estudiante"
+            android:title="@string/fragmentestudiante" />
     </group>
 </menu>
