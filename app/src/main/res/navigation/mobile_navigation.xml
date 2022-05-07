@@ -19,7 +19,7 @@
 
     <fragment
         android:id="@+id/nav_proyectos"
-        android:name="com.example.proyectopdm.ui.proyectos.proyectosFragment"
+        android:name="com.example.proyectopdm.ui.proyectos.ProyectosFragment"
         android:label="@string/menu_proyectos"
         tools:layout="@layout/fragment_proyectos" />
     <fragment

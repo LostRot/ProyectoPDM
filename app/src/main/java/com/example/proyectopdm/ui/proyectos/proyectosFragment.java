@@ -12,14 +12,14 @@ import androidx.lifecycle.ViewModelProvider;
 import com.example.proyectopdm.databinding.FragmentProyectosBinding;
 
 
-public class proyectosFragment extends Fragment {
+public class ProyectosFragment extends Fragment {
 
     private FragmentProyectosBinding binding;
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
-        proyectosViewModel proyectosViewModel =
-                new ViewModelProvider(this).get(proyectosViewModel.class);
+        ProyectosViewModel proyectosViewModel =
+                new ViewModelProvider(this).get(ProyectosViewModel.class);
 
         binding = FragmentProyectosBinding.inflate(inflater, container, false);
         View root = binding.getRoot();
