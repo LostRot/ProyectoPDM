@@ -20,5 +20,16 @@
             android:id="@+id/recordAcademicoFragment"
             android:icon="@drawable/ic_baseline_recordacademico"
             android:title="@string/menu_recordacademico" />
+
+        <item
+            android:id="@+id/bitacoraFragment"
+            android:icon="@drawable/ic_proyectos"
+            android:title="@string/fragmentbitacora" />
+
+        <item
+            android:id="@+id/nav_estudiantes"
+            android:icon="@drawable/ic_estudiante"
+            android:title="@string/fragmentestudiante" />
+
     </group>
 </menu>

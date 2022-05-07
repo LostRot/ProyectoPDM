@@ -18,7 +18,11 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
+<<<<<<< HEAD
                                       <entry key="url" value="file:/$USER_HOME$/AppData/Local/Android/Sdk/icons/material/materialicons/block/baseline_block_24.xml" />
+=======
+                                      <entry key="url" value="file:/$PROJECT_DIR$/../../../../D.%20Law/AppData/Local/Android/Sdk/icons/material/materialicons/assignment_ind/baseline_assignment_ind_24.xml" />
+>>>>>>> luis123
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -29,8 +33,13 @@
                         <option name="values">
                           <map>
                             <entry key="color" value="ea495b" />
+<<<<<<< HEAD
                             <entry key="outputName" value="ic_block" />
                             <entry key="sourceFile" value="C:\Users\mayno\Escritorio\Prueba\ProyectoPDM" />
+=======
+                            <entry key="outputName" value="ic_estudiante" />
+                            <entry key="sourceFile" value="C:\Users\mayno\Escritorio\ProyectoPDM-main" />
+>>>>>>> luis123
                           </map>
                         </option>
                       </PersistentState>
