@@ -19,8 +19,7 @@
 
     <fragment
         android:id="@+id/nav_proyectos"
-<<<<<<< HEAD
-        android:name="com.example.proyectopdm.ui.proyectos.ProyectosFragment"
+        android:name="com.example.proyectopdm.ui.proyectos.proyectosFragment"
         android:label="@string/menu_proyectos"
         tools:layout="@layout/fragment_proyectos" />
     <fragment
@@ -28,10 +27,7 @@
         android:name="com.example.proyectopdm.RecordAcademicoFragment"
         android:label="@string/menu_recordacademico"
         tools:layout="@layout/fragment_record_academico" />
-=======
-        android:name="com.example.proyectopdm.ui.proyectos.proyectosFragment"
-        android:label="@string/menu_proyectos"
-        tools:layout="@layout/fragment_proyectos" />
+
     <fragment
         android:id="@+id/bitacoraFragment"
         android:name="com.example.proyectopdm.BitacoraFragment"
@@ -42,5 +38,5 @@
         android:name="com.example.proyectopdm.nav_estudiantes"
         android:label="@string/fragmentestudiante"
         tools:layout="@layout/fragment_nav_estudiantes" />
->>>>>>> luis123
+
 </navigation>

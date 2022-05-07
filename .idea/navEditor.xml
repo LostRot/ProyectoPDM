@@ -8,97 +8,73 @@
             <LayoutPositions>
               <option name="myPositions">
                 <map>
-<<<<<<< HEAD
-                  <entry key="nav_inicio">
-=======
                   <entry key="bitacoraFragment">
->>>>>>> luis123
                     <value>
                       <LayoutPositions>
                         <option name="myPosition">
                           <Point>
-<<<<<<< HEAD
-                            <option name="x" value="12" />
-                            <option name="y" value="12" />
-=======
-                            <option name="x" value="42" />
-                            <option name="y" value="346" />
->>>>>>> luis123
+                            <option name="x" value="256" />
+                            <option name="y" value="368" />
                           </Point>
                         </option>
                       </LayoutPositions>
                     </value>
                   </entry>
-<<<<<<< HEAD
-                  <entry key="nav_miperfil">
-=======
                   <entry key="nav_estudiantes">
->>>>>>> luis123
                     <value>
                       <LayoutPositions>
                         <option name="myPosition">
                           <Point>
-<<<<<<< HEAD
+                            <option name="x" value="500" />
+                            <option name="y" value="368" />
+                          </Point>
+                        </option>
+                      </LayoutPositions>
+                    </value>
+                  </entry>
+                  <entry key="nav_inicio">
+                    <value>
+                      <LayoutPositions>
+                        <option name="myPosition">
+                          <Point>
+                            <option name="x" value="12" />
+                            <option name="y" value="12" />
+                          </Point>
+                        </option>
+                      </LayoutPositions>
+                    </value>
+                  </entry>
+                  <entry key="nav_miperfil">
+                    <value>
+                      <LayoutPositions>
+                        <option name="myPosition">
+                          <Point>
                             <option name="x" value="256" />
                             <option name="y" value="12" />
-=======
-                            <option name="x" value="245" />
-                            <option name="y" value="341" />
->>>>>>> luis123
                           </Point>
                         </option>
                       </LayoutPositions>
                     </value>
                   </entry>
-<<<<<<< HEAD
                   <entry key="nav_proyectos">
-=======
-                  <entry key="nav_gallery">
->>>>>>> luis123
                     <value>
                       <LayoutPositions>
                         <option name="myPosition">
                           <Point>
-<<<<<<< HEAD
+                            <option name="x" value="500" />
+                            <option name="y" value="12" />
+                          </Point>
+                        </option>
+                      </LayoutPositions>
+                    </value>
+                  </entry>
+                  <entry key="recordAcademicoFragment">
+                    <value>
+                      <LayoutPositions>
+                        <option name="myPosition">
+                          <Point>
                             <option name="x" value="12" />
                             <option name="y" value="368" />
-=======
-                            <option name="x" value="138" />
-                            <option name="y" value="18" />
->>>>>>> luis123
-                          </Point>
-                        </option>
-                      </LayoutPositions>
-                    </value>
-                  </entry>
-<<<<<<< HEAD
-                  <entry key="recordAcademicoFragment">
-=======
-                  <entry key="nav_home">
-                    <value>
-                      <LayoutPositions>
-                        <option name="myPosition">
-                          <Point>
-                            <option name="x" value="-124" />
-                            <option name="y" value="3" />
-                          </Point>
-                        </option>
-                      </LayoutPositions>
-                    </value>
-                  </entry>
-                  <entry key="nav_proyectos">
->>>>>>> luis123
-                    <value>
-                      <LayoutPositions>
-                        <option name="myPosition">
-                          <Point>
-<<<<<<< HEAD
-                            <option name="x" value="268" />
-                            <option name="y" value="358" />
-=======
-                            <option name="x" value="-192" />
-                            <option name="y" value="347" />
->>>>>>> luis123
                           </Point>
                         </option>
                       </LayoutPositions>
